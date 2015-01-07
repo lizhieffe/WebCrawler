@@ -1,0 +1,6 @@
+
+*.prefs
+
+bin/ie/moguntia/threads/ControllableThread.class
+
+bin/*
